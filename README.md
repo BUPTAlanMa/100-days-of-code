@@ -22,8 +22,18 @@
 **Today's Progress**: [LeetCode complete Linked-List: 707, 876](https://github.com/BUPTAlanMa/leetcode/tree/master/Linked_List)
 [LeetCode complete Queue: 346](https://github.com/BUPTAlanMa/leetcode/tree/master/Queue)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 3: 9 / 5, 2018 
+**Today's Progress**: [LeetCode complete Array: 11, 15, 16, 18](https://github.com/BUPTAlanMa/leetcode/tree/master/Array)
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 4: 9 / 6, 2018 
+**Today's Progress**: [tiny-dnn 源码阅读笔记1](https://app.yinxiang.com/shard/s60/nl/10918599/9a5b1724-f664-43f1-b2f0-eaa6e6a08636)
+
+### Day 5: 9 / 7, 2018 
+**Today's Progress**: [tiny-dnn 源码阅读笔记2](https://app.yinxiang.com/shard/s60/nl/10918599/4822e583-432d-462c-a34b-c5ca2e09f21d)
+
+### Day 6: 9 / 8, 2018 
+**Today's Progress**: [tiny-dnn 源码阅读笔记3](https://app.yinxiang.com/shard/s60/nl/10918599/7383de60-e394-439c-b673-24e6fbb7a06b)
+
+
 
 
