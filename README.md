@@ -34,6 +34,7 @@
 ### Day 6: 9 / 8, 2018 
 **Today's Progress**: [tiny-dnn 源码阅读笔记3](https://app.yinxiang.com/shard/s60/nl/10918599/7383de60-e394-439c-b673-24e6fbb7a06b)
 
-
+### Day 6: 11 / 8, 2018 
+**Today's Progress**: [LeetCode complete Stack: 155, 255, 496, 682, 844](https://github.com/BUPTAlanMa/leetcode/tree/master/Stack)
 
 
